@@ -1,10 +1,6 @@
 # 👋 Hi I'm Mahima!
 
-I’m an aspiring Bioinformatician & Data Scientist, currently pursuing my **MS by Research in Bioinformatics** at **IIIT Hyderabad**. I’m particularly interested in **Omics data analysis** and in exploring how **Machine Learning** can be applied to uncover patterns in large and complex biological datasets that go undetected by the human brain.  
-
-
-💡 **Fun fact:** I don’t just stare at the computer all the time. I’ve also spent a fair bit of time in the lab growing bacteria, extracting proteins, running gels, and doing all the wet lab things that most bioinformaticians politely avoid. 😄 So if you're looking for someone who speaks both pipettes and Python—you know who to call!  
-
+I’m an aspiring Bioinformatician & Data Scientist, currently pursuing my **MS by Research in Bioinformatics** at **IIIT Hyderabad**. I’m particularly interested in **Omics data analysis** and in exploring how **Machine Learning** can be applied in Bioinformatics.  
 
 Beyond academia, I like to immerse myself in mystery thriller movies and fiction novels. I also love learning new languages (currently learning Japanese!) and doodling. I'm also a trained artist and self-taught vocalist.  
 
