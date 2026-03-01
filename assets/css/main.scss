@@ -7,6 +7,7 @@
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
+@import url('https://cdn.jsdelivr.net/npm/computer-modern@0.1.2/index.min.css');
 @import
     "vendor/breakpoint/breakpoint",
 
@@ -40,17 +41,10 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Adjust sidebar proportion without shifting layout */
+body {
+  font-family: "Computer Modern Serif", serif !important;
+}
 
-@media (min-width: 1024px) {
-
-  .layout--single .sidebar {
-    flex: 0 0 320px;
-    max-width: 320px;
-  }
-
-  .layout--single .page__content {
-    flex: 1;
-  }
-
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Computer Modern Serif", serif !important;
 }
