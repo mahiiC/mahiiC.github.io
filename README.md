@@ -1,8 +1,6 @@
-# 👋 Hi I'm Mahima!
+# Portfolio Website
 
-I’m an aspiring Bioinformatician & Data Scientist, currently pursuing my **MS by Research in Bioinformatics** at **IIIT Hyderabad**. I’m particularly interested in **Omics data analysis** and in exploring how **Machine Learning** can be applied in Bioinformatics.  
-
-Beyond academia, I like to immerse myself in mystery thriller movies and fiction novels. I also love learning new languages (currently learning Japanese!) and doodling. I'm also a trained artist and self-taught vocalist.  
+Hi, this is Mahima!
 
 **This personal website+blog was created using Academic Pages, which is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
