@@ -7,7 +7,7 @@
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
-
+@import url('https://cdn.jsdelivr.net/npm/computer-modern@0.1.2/index.min.css');
 @import
     "vendor/breakpoint/breakpoint",
 
