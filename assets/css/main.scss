@@ -40,13 +40,13 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Make sidebar wider */
-.sidebar {
-  width: 320px;
-}
-
 @media (min-width: 1024px) {
-  .page {
-    padding-left: 340px;
+  .sidebar {
+    width: 320px !important;
+  }
+
+  .archive,
+  .page__content {
+    width: calc(100% - 320px) !important;
   }
 }
