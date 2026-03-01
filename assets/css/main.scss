@@ -43,12 +43,14 @@
 /* Adjust sidebar proportion without shifting layout */
 
 @media (min-width: 1024px) {
-  .sidebar {
-    width: 32% !important;
+
+  .layout--single .sidebar {
+    flex: 0 0 320px;
+    max-width: 320px;
   }
 
-  .page__content,
-  .archive {
-    width: 68% !important;
+  .layout--single .page__content {
+    flex: 1;
   }
+
 }
