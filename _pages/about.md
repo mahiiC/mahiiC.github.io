@@ -7,11 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I’m an aspiring Bioinformatician & Data Scientist, currently pursuing my **MS by Research in Bioinformatics** at **IIIT Hyderabad**. I’m particularly interested in **Omics data analysis** and in exploring how **Machine Learning** can be applied in Bioinformatics.  
+I’m an aspiring Bioinformatician & Data Scientist, currently pursuing my **MS by Research in Bioinformatics** at **IIIT Hyderabad**. 
 
-Beyond academia, I like to immerse myself in mystery thriller movies and fiction novels. I also love learning new languages (currently learning Japanese!) and doodling. I'm also a trained artist and self-taught vocalist.  
-
-
+## Research Interests  
+  
+- Integration of Multi-Omics data using Systems-level approaches for Biomarker discovery  
+- AI in Diagnostic and Prognostic Medical Imaging  
+- Comparative Genomics and Disease Evolution  
+  
 ## Education  
   
  - **MS by Research in Bioinformatics**, IIIT Hyderabad, India (2025-2027/28)
@@ -30,6 +33,8 @@ Beyond academia, I like to immerse myself in mystery thriller movies and fiction
 - Protein Biology
 - Human Evolution and Genetics
 - Microbiology
+
+Beyond academia, I like to immerse myself in mystery thriller movies and fiction novels. I also love learning new languages (currently learning Japanese!) and doodling. I'm also a trained artist and self-taught vocalist.  
 
 ## Feel free to reach out! 
   
