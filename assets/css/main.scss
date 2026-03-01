@@ -40,13 +40,15 @@
     "vendor/font-awesome/brands"
 ;
 
+/* Adjust sidebar proportion without shifting layout */
+
 @media (min-width: 1024px) {
   .sidebar {
-    width: 320px !important;
+    width: 32% !important;
   }
 
-  .archive,
-  .page__content {
-    width: calc(100% - 320px) !important;
+  .page__content,
+  .archive {
+    width: 68% !important;
   }
 }
