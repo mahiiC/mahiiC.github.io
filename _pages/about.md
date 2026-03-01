@@ -8,6 +8,7 @@ redirect_from:
 ---
   
 I am currently pursuing an **MS by Research in Bioinformatics at IIIT Hyderabad** where I am also working as a part-time researcher.  
+  
 My work focuses on integrating bulk RNA-seq, microarray, somatic mutation, and copy number variation (CNV) data to identify clinically relevant cancer subtypes and potential biomarkers.
 
 ## Currently Working On
