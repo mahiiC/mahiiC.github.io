@@ -7,7 +7,6 @@
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
-@import url('https://fonts.cdnfonts.com/css/latin-modern-roman');
 @import
     "vendor/breakpoint/breakpoint",
 
@@ -39,8 +38,5 @@
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
-   body {
-      font-family: 'Latin Modern Roman', serif !important;
-}
 }
 ;
